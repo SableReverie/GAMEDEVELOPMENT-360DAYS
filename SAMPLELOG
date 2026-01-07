@@ -1,0 +1,126 @@
+🔍 WHAT EACH LOG LINE MEANS
+Day 1
+
+Just the day number.
+Tomorrow will be Day 2, then Day 3, etc.
+
+Hours done:
+
+👉 Total focused hours you actually worked
+
+Examples:
+
+3h
+
+4.5h
+
+6h
+
+Not planned hours.
+Not “I was around my PC”.
+Only real work time.
+
+Godot work:
+
+👉 Technical things you coded or built
+
+Examples:
+
+Player movement script
+
+Input map setup
+
+Camera follow
+
+Scene setup
+
+Bug fixes
+
+Think: “What did I touch in Godot?”
+
+Animation:
+
+👉 Anything related to visuals or feel
+
+Examples:
+
+Idle animation
+
+Walk animation
+
+Sprite flip
+
+Attack animation
+
+Screen shake
+
+Tween effects
+
+If you didn’t do any → write None
+
+Content:
+
+👉 Creator-related work
+
+Examples:
+
+Recorded gameplay clip
+
+Wrote script ideas
+
+Edited video
+
+Took screenshots
+
+Planned content topics
+
+If you did nothing → write None
+
+What I shipped:
+
+👉 The ONE concrete outcome of the day
+
+This is the most important line.
+
+Examples:
+
+“Playable character movement”
+
+“Basic combat working”
+
+“First prototype scene playable”
+
+If someone asked:
+
+“What exists now that didn’t exist yesterday?”
+This line answers it.
+
+What broke:
+
+👉 Problems, bugs, confusion
+
+Examples:
+
+Movement jitter
+
+Animation not looping
+
+Input not detected
+
+Script errors I don’t understand yet
+
+No shame here. This helps tomorrow.
+
+Tomorrow’s focus:
+
+👉 Only 1–2 priorities for next session
+
+Examples:
+
+Smooth movement
+
+Add idle animation
+
+Fix camera jitter
+
+Start enemy dummy
